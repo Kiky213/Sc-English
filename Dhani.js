@@ -61,10 +61,10 @@ const setting = JSON.parse(fs.readFileSync('./database/setting.json'))
 
 //━━━━[ Setting ]━━━━//
 
-owner = setting.OwnerNumber
-owner2 = `${owner}@s.whatsapp.net`
-botname = setting.BotName
-ownername = setting.OwnerName
+owner = setting.6285210465076
+owner2 = `${owner}@6285210465076.whatsapp.net`
+botname = setting.IkyBot
+ownername = setting.IkyGans
 const fakeimage = fs.readFileSync ('./database/image/dhani.jpg')
 const thumb = fs.readFileSync ('./database/image/thumb.jpg')
 
